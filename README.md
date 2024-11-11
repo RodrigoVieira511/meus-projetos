@@ -7,7 +7,7 @@ Repositório para projetos que pode usar tecnologias como:
 ## Sobre min 
 Sou um Desenvolvedor front-end focado em criar interfaces intuitivas e responsivas para seus usuários tenham uma boa experiências.
 
-Sou desenvolvedor Front-end apaixonado por tecnologias. A 1 ano estou aprimorando habilidades como **HTML**, **CSS**, **JAVASCRIPT** estou estudando **NODE.JS**, **REACT**, **MARKDOWN** E **GIT**.
+Sou desenvolvedor apaixonado por tecnologias. A 1 ano estou aprimorando habilidades como **HTML**, **CSS**, **JAVASCRIPT** estou estudando **NODE.JS**, **REACT**, **MARKDOWN** E **GIT**.
 
 Meus objetivos:
 
