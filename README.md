@@ -12,7 +12,7 @@ Sou desenvolvedor Front-end apaixonado por tecnologias. A 1 ano estou aprimorand
 Meus objetivos:
 
 - Ser prestativo em projetos em equipe;
-- Agregar na empresa ou no remoto
+- Agregar na empresa ou no remoto;
 - Entregar projetos de ótima qualidade.        
 
 Futuramente predendo aprender liguagens como C sharp, C++ e PHP partindo para um caminho back-end.
